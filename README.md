@@ -18,7 +18,7 @@ API desenvolvida em Java com Spring Boot para contratação e consulta de opera�
 ### Clonar o repositório
 
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/hellen365/desafio-sicred.git
 ```
 
 ### Executar a aplicação
